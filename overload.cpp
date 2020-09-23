@@ -57,7 +57,7 @@ float Area(const float Length, const float Widht)
 }
 double Area(const double based,double high)
 {
-	return(based*high);
+	return(0.5*based*high);
 }
 void DisplayMenu()
 {
